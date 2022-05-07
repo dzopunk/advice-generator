@@ -75,6 +75,7 @@ body {
   .section {
     width: 40vw;
     height: 40vh;
+    transform: translateY(60%);
   }
 }
 
