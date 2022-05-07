@@ -8,8 +8,8 @@ const request = function () {
     .then(function (data) {
       const newAdvice = `
       <h1 class="advice">ADVICE #${data.slip.id}</h1>
-      <p class="quote">
-        ${data.slip.advice}
+      <p class="quote">"
+        ${data.slip.advice}"
       </p>
     `;
 
