@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/active-states.jpg.jpg)
+https://github.com/dzopunk/advice-generator/blob/master/design/mobile-design.jpg
 
 ### Built with
 
