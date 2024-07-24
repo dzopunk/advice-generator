@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-https://github.com/dzopunk/advice-generator/blob/master/design/mobile-design.jpg
+![screenshot](https://github.com/dzopunk/advice-generator/blob/master/design/mobile-design.jpg)
 
 ### Built with
 
