@@ -21,3 +21,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Advice Slip API to generate random quotes of advice
+
+  ### Live Page
+https://dzopunk.github.io/advice-generator/
